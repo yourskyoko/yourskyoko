@@ -8,7 +8,7 @@ New Era University
 2023 - Present
 
 ## Certifications
-https://courses.cognitiveclass.ai/certificates/65124e26d97e4961a10da21d63241d5a
+[Certificate from Cognitive Class](https://courses.cognitiveclass.ai/certificates/65124e26d97e4961a10da21d63241d5a)
 
 ## Technical Skills
 
@@ -22,5 +22,3 @@ https://courses.cognitiveclass.ai/certificates/65124e26d97e4961a10da21d63241d5a
 ## Soft Skills
 - Problem Solving
 - Teamwork
-
-
