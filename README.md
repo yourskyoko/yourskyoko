@@ -1,4 +1,4 @@
-# Hi, there! I'm Angel Florendo!
+# Angel Florendo
 
 I am passionate about coding.
 
