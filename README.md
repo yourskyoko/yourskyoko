@@ -8,7 +8,7 @@ New Era University
 2023 - Present
 
 ## Certifications
-*Add any relevant certifications here.*
+https://courses.cognitiveclass.ai/certificates/65124e26d97e4961a10da21d63241d5a
 
 ## Technical Skills
 
